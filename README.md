@@ -1,110 +1,95 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8b0000,100:ff9800&height=220&section=header&text=HOUSE%20TARGARYEN&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Fire%20and%20Blood%20%7C%20Sanjay&descAlignY=58&descSize=18)
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF9800&center=true&vCenter=true&width=600&lines=I+am+the+dragon+in+your+codebase.;fire+cannot+kill+a+bug+bred+of+fire.;dracarys+--target%3Dproduction+bugs;the+Iron+Throne+of+Placements+awaits." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2800&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=sanjay%40placement%3A~%24+whoami;compiling+ambition.exe...;404%3A+bugs+not+found+(yet);building+my+way+to+the+offer+letter" alt="Typing SVG" />
 
 </div>
 
 ---
-
-### 🐉 ansh@dragonstone:~$ whoami
 
 ```
+sanjay@localhost:~$ whoami
 ──────────────────────────────────────────────────────────────
-              🔥                  targaryen — house of dragons
-            🐉🐉🐉                ─────────────────────────────
-           🔥🐉🔥🐉🔥              name      sanjay
-              🐉🐉                status    aspiring SDE, 90-day war campaign
-             🔥  🔥               weapons   c++ (dsa) · javascript · node.js
-                                  training  express · mongodb · docker · websockets
-   os: valyria (fire-forged)      motto     "I do not answer bugs. Bugs answer to me."
+  ██████╗  █████╗ ███╗   ██╗     ██╗
+  ██╔════╝ ██╔══██╗████╗  ██║     ██║
+  ███████╗ ███████║██╔██╗ ██║     ██║
+  ╚════██║ ██╔══██║██║╚██╗██║██   ██║
+  ███████║ ██║  ██║██║ ╚████║╚█████╔╝
+  ╚══════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════╝
+
+  role       final-year student, chasing an SDE offer
+  status     grinding a 90-day placement-prep sprint
+  stack      C++ (DSA) · JavaScript · Node.js · Express · MongoDB
+  currently  building 2 backend projects + relearning DP
 ──────────────────────────────────────────────────────────────
 
-ansh@dragonstone:~$ cat ./campaign.log
-[OK] DSA revision ................... in progress, forged in fire
-[OK] websocket messenger ............ real-time, built to survive winter
-[OK] microservices chat empire ....... gateway + auth + users + chat, bound by ravens (RabbitMQ)
-[OK] placement war ................... 90 days to the Iron Throne
-[..] fear ............................ burned away
+sanjay@localhost:~$ cat ./progress.log
+[OK]   DSA .......................... refreshing, DP flagged for rebuild
+[OK]   Angela Yu web dev course ..... in progress
+[..]   websocket real-time project .. queued
+[..]   microservices chat backend ... gateway + auth + user + chat, RabbitMQ-bound
+[TODO] placement offer ............... loading...
 
-ansh@dragonstone:~$ █
+sanjay@localhost:~$ █
 ```
 
 ---
 
-### ⚔️ Current Conquest
+### ⚡ currently building
 
-- 🐲 Sharpening Valyrian steel in **DSA (C++)**
-- 🐲 Forging the **realm's backend** — Node.js, Express, Auth, Databases
-- 🐲 Building two war machines for the placement campaign:
-  - A real-time **WebSocket messenger**
-  - A **microservices chat empire** (gateway · auth · users · chat, RabbitMQ-bound)
-- 🐲 Marching toward the **Iron Throne of Software Engineering**
+- 🔌 a real-time **WebSocket messenger** — learning by building, not just watching
+- 🧩 a **microservices chat backend** — API gateway, auth, user & chat services wired together with RabbitMQ, containerized with Docker
+- 🧠 rebuilding **DSA fundamentals** (C++), DP included
+- 🕸️ full-stack basics via Angela Yu's course — trimmed to what backend dev actually needs
 
 ---
 
-### 🏹 The Armory
+### 🛠️ tech stack
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=FF9800)
-![JavaScript](https://img.shields.io/badge/JavaScript-8B0000?style=for-the-badge&logo=javascript&logoColor=FFD700)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FF9800)
-![Express](https://img.shields.io/badge/Express.js-8B0000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FF9800)
-![Docker](https://img.shields.io/badge/Docker-8B0000?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF9800)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-### 📜 Scrolls of the Realm (Stats)
+### 📊 stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sanj-2&show_icons=true&theme=transparent&title_color=ff9800&icon_color=8b0000&text_color=ffffff&border_color=8b0000&hide_border=false" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanj-2&theme=dark&hide_border=true&stroke=8b0000&ring=ff9800&fire=ff9800&currStreakLabel=ff9800&background=00000000" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sanj-2&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanj-2&theme=radical&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanj-2&layout=compact&theme=transparent&title_color=ff9800&text_color=ffffff&border_color=8b0000&hide_border=false" width="50%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sanj-2&theme=dracula&no-frame=true&column=4&margin-w=8&margin-h=8&title=Repositories,Stars,Commits,Followers" width="80%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanj-2&layout=compact&theme=radical&hide_border=true" width="50%"/>
 
 </div>
 
 ---
 
-### 🔥 The Dragon on Your Commit Graph
-
-*It sleeps by day, and hunts your contribution history by night.*
+### 🐍 contribution snake
 
 <div align="center">
 
-![dragon-snake](https://raw.githubusercontent.com/Sanj-2/Sanj-2/output/dragon-snake.svg)
+![snake](https://raw.githubusercontent.com/Sanj-2/Sanj-2/output/snake.svg)
 
 </div>
 
-> ⚠️ This animated snake needs a **one-time setup** (a GitHub Action that runs nightly and generates the SVG from your commit graph). I've included the exact workflow file below — copy it into your repo and it'll start animating within a day.
+> needs the one-time GitHub Action setup — same `dragon-snake.yml` file from before works fine, just rename the output file to `snake.svg` if you want it to match this version, or keep it as is and update the image link above to match whatever filename you used.
 
 ---
 
-### ⚜️ Words of House Targaryen
-
-> *"Fire and Blood."*
-> *"A Targaryen alone in the world is a terrible thing — a Targaryen with clean commits is worse."*
-> *"Bend the knee, `main` branch — no more force pushes."*
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sanj-2&color=8b0000&style=for-the-badge&label=DRAGON+SIGHTINGS)
+![Profile Views](https://komarev.com/ghpvc/?username=Sanj-2&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS)
 
-[![GitHub](https://img.shields.io/badge/Dragonstone-Sanj--2-8b0000?style=for-the-badge&logo=github&logoColor=ff9800)](https://github.com/Sanj-2)
+[![GitHub](https://img.shields.io/badge/GitHub-Sanj--2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanj-2)
 
-</div>
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff9800,50:8b0000,100:000000&height=120&section=footer)
+*building in silence, shipping in public*
 
 </div>
