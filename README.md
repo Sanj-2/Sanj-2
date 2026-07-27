@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sanjay 👋
+# Hi, I'm Sanjeev 👋
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=500&lines=Backend+Developer+in+the+making;C%2B%2B+%7C+JavaScript+%7C+Node.js" alt="Typing SVG" />
 
