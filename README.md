@@ -1,49 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2800&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=sanjay%40placement%3A~%24+whoami;compiling+ambition.exe...;404%3A+bugs+not+found+(yet);building+my+way+to+the+offer+letter" alt="Typing SVG" />
+# Hi, I'm Sanjay 👋
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=500&lines=Backend+Developer+in+the+making;C%2B%2B+%7C+JavaScript+%7C+Node.js" alt="Typing SVG" />
 
 </div>
 
----
+<br/>
 
-```
-sanjay@localhost:~$ whoami
-──────────────────────────────────────────────────────────────
-  ██████╗  █████╗ ███╗   ██╗     ██╗
-  ██╔════╝ ██╔══██╗████╗  ██║     ██║
-  ███████╗ ███████║██╔██╗ ██║     ██║
-  ╚════██║ ██╔══██║██║╚██╗██║██   ██║
-  ███████║ ██║  ██║██║ ╚████║╚█████╔╝
-  ╚══════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════╝
-
-  role       final-year student, chasing an SDE offer
-  status     grinding a 90-day placement-prep sprint
-  stack      C++ (DSA) · JavaScript · Node.js · Express · MongoDB
-  currently  building 2 backend projects + relearning DP
-──────────────────────────────────────────────────────────────
-
-sanjay@localhost:~$ cat ./progress.log
-[OK]   DSA .......................... refreshing, DP flagged for rebuild
-[OK]   Angela Yu web dev course ..... in progress
-[..]   websocket real-time project .. queued
-[..]   microservices chat backend ... gateway + auth + user + chat, RabbitMQ-bound
-[TODO] placement offer ............... loading...
-
-sanjay@localhost:~$ █
-```
-
----
-
-### ⚡ currently building
-
-- 🔌 a real-time **WebSocket messenger** — learning by building, not just watching
-- 🧩 a **microservices chat backend** — API gateway, auth, user & chat services wired together with RabbitMQ, containerized with Docker
-- 🧠 rebuilding **DSA fundamentals** (C++), DP included
-- 🕸️ full-stack basics via Angela Yu's course — trimmed to what backend dev actually needs
-
----
-
-### 🛠️ tech stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -57,39 +22,10 @@ sanjay@localhost:~$ █
 
 </div>
 
----
-
-### 📊 stats
+<br/>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sanj-2&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanj-2&theme=radical&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanj-2&layout=compact&theme=radical&hide_border=true" width="50%"/>
-
-</div>
-
----
-
-### 🐍 contribution snake
-
-<div align="center">
-
-![snake](https://raw.githubusercontent.com/Sanj-2/Sanj-2/output/snake.svg)
-
-</div>
-
-> needs the one-time GitHub Action setup — same `dragon-snake.yml` file from before works fine, just rename the output file to `snake.svg` if you want it to match this version, or keep it as is and update the image link above to match whatever filename you used.
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sanj-2&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sanj--2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanj-2)
-
-*building in silence, shipping in public*
 
 </div>
